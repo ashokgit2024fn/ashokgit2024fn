@@ -11,7 +11,7 @@
 
 ### 🛠 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap
 - **Backend:** Node.js, Express.js, Python
 - **Databases:** SQL, MongoDB
 - **Other:** Data Structures and Algorithms (DSA)
